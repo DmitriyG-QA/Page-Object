@@ -36,3 +36,4 @@ utka.fly()
 pyzhik.walk()
 chizhik.walk()
 utka.walk()
+
